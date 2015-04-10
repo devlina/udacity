@@ -12,6 +12,6 @@ git clone https://github.com/devlina/udacity.git
 Go to the code repository you have downloaded using above command, and open a python shell. 
 Execute following command.
 ```#!python
->>>import fresh_tomotoes, entertainment_center.py
+>>>import fresh_tomotoes, entertainment_center
 >>>fresh_tomatoes.open_movies_page(entertainment_center.movies)
 ```
