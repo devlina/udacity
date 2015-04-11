@@ -6,4 +6,4 @@ movies = [
 			media.Movie("Cinderella", "images/cinderella-poster.jpg", "https://www.youtube.com/watch?v=WRuHM6rLSF8"),
 			media.Movie("Lost river", "images/lost river-poster.jpg", "https://www.youtube.com/watch?v=H8ngDiG9V8w"), 
 			media.Movie("Insurgent", "images/insurgent-poster.jpg", "https://www.youtube.com/watch?v=IR-l_TSjlEo"),
-		]
+		 ]
